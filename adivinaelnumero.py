@@ -31,4 +31,4 @@ def adivina(x):
     print(f"ADIVINASTE EL NUMERO!!{random_number}!!! ")
 
 
-adivina(10)
+adivina(100)
